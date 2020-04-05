@@ -16,8 +16,6 @@ public class SwitchStatements {
             default:
                 System.out.println("The value is " + switchValue);
         }
-
-
     }
 
 }
