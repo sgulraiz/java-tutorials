@@ -1,3 +1,5 @@
+package com.sheharyar.basic;
+
 public class MethodExamples {
 
     public static void main (String[] args) {

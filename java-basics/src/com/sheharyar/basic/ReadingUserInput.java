@@ -1,3 +1,5 @@
+package com.sheharyar.basic;
+
 import java.util.Scanner;
 
 public class ReadingUserInput {

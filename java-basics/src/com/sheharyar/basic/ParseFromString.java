@@ -1,3 +1,5 @@
+package com.sheharyar.basic;
+
 public class ParseFromString {
 
     //This is the example where we can parse the integer or double value from string and use the values for computation

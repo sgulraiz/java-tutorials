@@ -1,3 +1,5 @@
+package com.sheharyar.basic;
+
 public class whileStatements {
 
     public static void main(String[] args ) {
